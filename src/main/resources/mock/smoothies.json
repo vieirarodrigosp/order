@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Classic",
+		"fruit": ["strawberry", "banana", "pineapple", "mango", "peach", "honey", "ice", "yogurt"]
+	},
+	{
+		"name": "Forest Berry",
+		"fruit": ["strawberry", "raspberry", "blueberry", "honey", "ice", "yogurt"]
+	},
+	{
+		"name": "Freezie",
+		"fruit": ["blackberry", "blueberry", "black currant", "grape juice", "frozen yogurt"]
+	},
+	{
+		"name": "Greenie",
+		"fruit": ["green apple", "kiwi", "lime", "avocado", "spinach", "ice", "apple juice"]
+	},
+	{
+		"name": "Vegan Delite",
+		"fruit": ["strawberry", "passion fruit", "pineapple", "mango", "peach", "ice", "soy milk"]
+	},
+	{
+		"name": "Just Desserts",
+		"fruit": ["banana", "ice cream", "chocolate", "peanut", "cherry"]
+	}
+]
